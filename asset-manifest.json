@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ram082004/typegame/static/css/main.50a172dc.css",
+    "main.js": "/Ram082004/typegame/static/js/main.90f95600.js",
+    "index.html": "/Ram082004/typegame/index.html",
+    "main.50a172dc.css.map": "/Ram082004/typegame/static/css/main.50a172dc.css.map",
+    "main.90f95600.js.map": "/Ram082004/typegame/static/js/main.90f95600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a172dc.css",
+    "static/js/main.90f95600.js"
+  ]
+}
